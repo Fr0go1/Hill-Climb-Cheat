@@ -17,3 +17,6 @@
 - [ ] Clean up code
 - [ ] Use my own memory methods
 - [ ] Improve gui
+
+## 🚧 DISCLAMER
+  - You will need to know some coding due to me fucking up the file upload so it may not work.
